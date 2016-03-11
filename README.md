@@ -11,7 +11,7 @@ A curated list of resources about the library which I refer to every know and th
 
 ### :bulb: Repos
 
-* Reactive Extensions [Org Page](https://github.com/Reactive-Extensions)
+* Reactive Extensions - [Org Page](https://github.com/Reactive-Extensions)
 * Reactive Extensions for JavaScript - RxJS
   * [v4.x](https://github.com/Reactive-Extensions/RxJS)
   * [v5.x](https://github.com/ReactiveX/RxJS)
