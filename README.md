@@ -43,7 +43,10 @@ A curated list of resources about the library which I refer to every know and th
     * [chapter 4/5](http://jsbin.com/nilite/1/edit?html,js,console,output) - startWith / mapTo
     * [chapter 6](http://jsbin.com/waziga/1/edit?html,js,console,output) - merge / reset
     * [chapter 7](http://jsbin.com/bixuso/1/edit?html,js,console,output) - switchMap
-    
+    * [chapter 8 - 14](http://jsbin.com/qogage/edit?html,js,console,output)
+      * refer to chapter 14 for a complete run down of implemented functionality
+      * operators : Observable.combineLatest, filter, takeWhile, reduce, do
+      
 ### :tv: Videos
 
 * [Async Programming In ES7](https://youtu.be/lil4YCCXRYc)
