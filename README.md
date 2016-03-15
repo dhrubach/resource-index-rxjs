@@ -46,6 +46,8 @@ A curated list of resources about the library which I refer to every know and th
     * [chapter 8 - 14](http://jsbin.com/qogage/edit?html,js,console,output)
       * refer to chapter 14 for a complete run down of implemented functionality
       * operators : Observable.combineLatest, filter, takeWhile, reduce, do
+    * [chapter 15 - 18](http://jsbin.com/ciforu/edit?js,console,output)
+      * operators : withLatestFrom, share, repeat, multiple subscriptions 
       
 ### :tv: Videos
 
