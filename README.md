@@ -10,6 +10,9 @@ A curated list of resources about the library which I refer to every know and th
   * [here](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) : a must read article for anyone starting with reactive programming.
 * Angular - Introduction to Reactive Extensions (RxJS)
   * [medium](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f#.h14f74rgl)
+* Deep Dive into RxJS switchMap operator
+  * [angular university blog](http://blog.angular-university.io/rxjs-switchmap-operator/)
+  * one stop article to understand RxJS 'switchMap' operator
   
 ### :bulb: Repos
 
@@ -47,14 +50,30 @@ A curated list of resources about the library which I refer to every know and th
       * refer to chapter 14 for a complete run down of implemented functionality
       * operators : Observable.combineLatest, filter, takeWhile, reduce, do
     * [chapter 15 - 18](http://jsbin.com/ciforu/edit?js,console,output)
-      * operators : withLatestFrom, share, repeat, multiple subscriptions 
+      * operators : withLatestFrom, share, repeat, multiple subscriptions
+* [Angular RxJS Jumpstart](https://angular-university.io/course/angular2-http)
+  * angular university series
+  * basics of observables and common RxJS operators like map, switchMap, combineLatest
+  * Angular HTTP module and how it utilizes RxJS
+  * common scenarios like parallel HTTP requests, retry and cancel operations
       
 ### :tv: Videos
 
 * [Async Programming In ES7](https://youtu.be/lil4YCCXRYc)
   * Speaker : Jafar Husain
   * JSConf US 2015
-
+* [Top 7 RxJS Concepts for Angular Developers](https://youtu.be/65Us8NwmYf4)
+  * Channel : Angular Firebase
+  * Duration : 7:18
+  * Walkthrough of RxJS concepts using a Angular + Firebase app
+  * FirebaseObjectObservable, FirebaseListObservable
+  * subscribe, unsubscribe
+  * operators: map, switchMap, combineLatest
+* [RxJS Quick Start with Practical Examples](https://youtu.be/2LCo926NFLI)
+  * Channel : Angular Firebase
+  * Duration: 15:32
+  * Walkthrough of RxJS operators via quick examples
+  
 ### :speaker: Podcasts
 
 * FRP and RxJS with Matthew Podwysocki
